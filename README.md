@@ -5,13 +5,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
+
+### Links
+
+- Solution URL: 
+- Live Site URL: (https://lynaifr.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -22,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned through this project the positioning properties in CSS like: position relative/absolute, also the usage of margin/padding, in addition to how different elements of a website have their own CSS code to be fixed in place. Before and after working on this project i had a chance to practice on git commands and solve errors that i faced, one thing i learned is that when creating a repo on github i shouldn't create a README file and a master brach as this will cause a conflict error when pushing the files because git will also try to create the master branch.
+I learned through this project the positioning properties in CSS like: position relative/absolute, also the usage of margin/padding, in addition to how different elements of a website have their own CSS code to be fixed in place. Before and after working on this project i had a chance to practice on git commands and solve errors that i faced.
 
 ### Continued development
 
@@ -31,3 +38,8 @@ While working on this project i struggled with positioning elements in the websi
 ### Useful resources
 
 - [resource 1](https://https://www.w3schools.com) - I mainly used this website as it gathers short and well explained tutorials with examples.
+
+## Author
+
+- Website - [Lyna] (https://lynaifr.github.io/QR-Code-Component/)
+- Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
