@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-lCaa7Pws9a)
 - Live Site URL: (https://lynaifr.github.io/QR-Code-Component/)
 
 ## My process
@@ -44,7 +44,7 @@ While working on this project I struggled with positioning elements in the websi
 
 ## Author
 
-- Website - [Lyna] (https://lynaifr.github.io/QR-Code-Component/)
+- Website - [Lyna IFRAH] (https://github.com/lynaIFR)
 - Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
 
 ## Acknowledgments
